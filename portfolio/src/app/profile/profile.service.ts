@@ -19,7 +19,7 @@ export class ProfileService {
       title: 'Inception',
       desc: '',
       livedemo: 'https://mehulk05.github.io/MyShop/#/',
-      githurl: 'https://github.com/mehulk05/MyShop',
+      githurl: 'https://github.com/Sboulal/inception',
       mediumlink: 'https://itnext.io/read-data-from-google-spreadsheet-in-angular-209ee74b6cb4',
       imgUrl: 'assets/images/docker_logo.png',
       tech: 'is a project aimed at introducing students to the concepts of system containerization and orchestration using **Docker**. The objective is to create a secure and efficient multi-container environment that mimics a small-scale web hosting setup.'
@@ -30,7 +30,7 @@ export class ProfileService {
       title: 'ft_transcendence',
       desc: '',
       livedemo: 'https://mehulk05.github.io/Blogapp-using-MERN/#/',
-      githurl: 'https://github.com/mehulk05/Blogapp-using-MERN',
+      githurl: 'https://github.com/Sboulal/ft_transcandence',
       mediumlink: 'https://itnext.io/blog-app-using-mern-stack-b0b4d69d7ea1',
       imgUrl: 'assets/images/ping.png',
       tech: 'ft_transcendence is the ultimate project in the 42 common core curriculum, challenging students to create a feature-rich web application centered around the classic game Pong. This project combines various modern web technologies to create a complete multiplayer gaming experience with social features.'
@@ -42,7 +42,7 @@ export class ProfileService {
       title: 'Cub3D',
       desc: '',
       livedemo: 'https://mehulk05.github.io/Blog-using-mean/#/',
-      githurl: 'https://github.com/mehulk05/Blog-using-mean',
+      githurl: 'https://github.com/Nkhou/cub3D',
       mediumlink: 'https://itnext.io/crud-operation-using-mean-stack-7dfa2f51ec8c',
       imgUrl: 'assets/images/cub3d.png',
       tech: 'Cub3D is a simple 3D game engine project built in C using raycasting, inspired by the classic game Wolfenstein 3D💪🔫🔫💥.'
@@ -53,7 +53,7 @@ export class ProfileService {
       title: 'Minishell',
       desc: '',
       livedemo: 'https://chatapp-using-node.herokuapp.com/',
-      githurl: 'https://github.com/mehulk05/Chat-app-using-Nodejs',
+      githurl: 'https://github.com/Sboulal/minishell',
       mediumlink: 'https://medium.com/weekly-webtips/building-a-multiroom-chat-application-in-node-js-8a8adca5acf2',
       imgUrl: 'assets/images/mini.gif',
       tech: 'This project is about creating a simple shell, and learning about about processes and file descriptors.'
@@ -65,7 +65,7 @@ export class ProfileService {
       title: 'IRC Chat Application',
       desc: '',
       livedemo: 'https://mehulk05.github.io/Medium-Blog-On-React-App#/',
-      githurl: 'https://github.com/mehulk05/Medium-Blog-On-React-App',
+      githurl: 'https://github.com/Nkhou/ft_irc',
       mediumlink: 'https://javascript.plainenglish.io/how-to-add-medium-blogs-on-your-react-app-a3898a729aad',
       imgUrl: 'assets/images/IRC.jpg',
       tech: 'ft_irc 💬 *A minimalist IRC server in C++ (RFC 2812 compliant)* Core Features: ✅ Multi-client chat with poll() ✅ Channel modes (+i, +t, +k) ✅ Password authentication ✅ DCC file transfer (bonus)'
@@ -231,7 +231,7 @@ export class ProfileService {
       work: 'Working as a developer Wordpress .'
 
     },
-    
+
     {
       id: 3,
       company: 'Sphere Bleu',
