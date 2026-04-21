@@ -19,12 +19,19 @@ export class App {
     github: 'Sboulal',
     about: "Développeuse Full-stack passionnée, actuellement étudiante à l'école 1337 (Khouribga). Dotée d'une solide expérience académique et pratique en développement web (Angular, Laravel, Django) et en infrastructure (Docker). Je m'efforce de concevoir des solutions innovantes et performantes."
   };
-
-  skills = [
-    'Angular', 'Laravel', 'Flask', 'Django', 'Python', 
-    'PostgreSQL', 'C / C#', 'Linux / Git', 'Docker'
-  ];
-
+skills = [
+  { name: 'Angular', icon: 'devicon-angularjs-plain colored' },
+  { name: 'Laravel', icon: 'devicon-laravel-original colored' },
+  { name: 'Flask', icon: 'devicon-flask-original text-slate-800' },
+  { name: 'Django', icon: 'devicon-django-plain colored' },
+  { name: 'Python', icon: 'devicon-python-plain colored' },
+  { name: 'PostgreSQL', icon: 'devicon-postgresql-plain colored' },
+  { name: 'C', icon: 'devicon-c-plain colored' },
+  { name: 'C#', icon: 'devicon-csharp-plain colored' },
+  { name: 'Linux', icon: 'devicon-linux-plain text-slate-800' },
+  { name: 'Git', icon: 'devicon-git-plain colored' },
+  { name: 'Docker', icon: 'devicon-docker-plain colored' }
+];
   experience = {
     title: 'Développeuse Full-stack',
     company: 'SphereBleue',
