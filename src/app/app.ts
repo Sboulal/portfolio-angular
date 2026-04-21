@@ -14,7 +14,7 @@ export class App {
     title: 'Full Stack Developer',
     email: 'boulalsalma7@gmail.com',
     phone: '0654447852',
-    location: 'Mohammedia',
+    location: 'Casablanca, Morocco',
     linkedin: 'BOULAL Salma',
     github: 'Sboulal',
     about: "Développeuse Full-stack passionnée, actuellement étudiante à l'école 1337 (Khouribga). Dotée d'une solide expérience académique et pratique en développement web (Angular, Laravel, Django) et en infrastructure (Docker). Je m'efforce de concevoir des solutions innovantes et performantes."
